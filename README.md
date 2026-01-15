@@ -18,7 +18,9 @@ This repository contains the source code and datasets for a project focused on p
 ### Installation
 1. Clone the repository   
 2. Unzip the datasets:
+   
    a. unzip Original.zip -d data/raw
+   
    b. unzip AI\ Generated.zip -d data/augmented
 
 ### Features
