@@ -5,7 +5,7 @@ This repository contains the source code and datasets for a project focused on p
 ## Project Structure
 
 * **Handwritten PDF SS**: Contains scanned images of the handwritten answer scripts.
-* **Original.zip**: The original answers dataset of handwritten documents used for training and testing the model.
+* **Original.zip**: The original answers dataset of handwritten scripts used for training and testing the model.
 * **AI Generated.zip**: AI-generated answers of the same questions to train and test the model.
 * **Dataset Img Processing-5-Fold CV.ipynb**: Code file on 5-fold cross-validation and image preprocessing techniques applied to the dataset.
 
