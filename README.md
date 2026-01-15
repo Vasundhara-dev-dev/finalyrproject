@@ -9,7 +9,7 @@ This repository contains the source code and datasets for a project focused on p
 * **AI Generated.zip**: AI-generated answers of the same questions to train and test the model.
 * **Dataset Img Processing-5-Fold CV.ipynb**: Code file in which 5-fold cross-validation and image preprocessing techniques are applied to the dataset.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python 3.x
